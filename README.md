@@ -1,6 +1,6 @@
 # chatgpt
 
-Query chatgpt from the command line. Written in Rust and using rustyline, reqwest & tokio.
+Query chatgpt from the command line. Written in Rust and using rustyline, reqwest, serde, dotenv & tokio.
 
 Super simple: 
 - Write your query from the prompt.
